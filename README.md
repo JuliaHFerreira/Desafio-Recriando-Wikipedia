@@ -1,6 +1,6 @@
 # Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** 📌 Desafio: Recriando a Wikipédia - Alice no País das Maravilhas
 
 ## Objetivo
 Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
@@ -8,9 +8,27 @@ Este desafio consiste em treinar você com relação a estrutura do site, e tamb
 ## Desafio
 Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+## Descrição do Projeto:
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+Este projeto faz parte de um desafio para recriar uma página inspirada na Wikipédia, utilizando apenas HTML5 e CSS3. O tema escolhido foi Alice no País das Maravilhas, explorando a estrutura e o estilo característicos da enciclopédia online.
+
+## Objetivos do Projeto:
+
+✅ Praticar a estruturação de páginas web com HTML5 semântico.
+
+✅ Reproduzir o layout da Wikipédia, respeitando sua identidade visual.
+
+✅ Melhorar a acessibilidade e responsividade da página.
+
+✅ Aplicar boas práticas de estilização com CSS3.
+
+## Principais Tecnologias Utilizadas:
+
+- HTML5 → Estrutura semântica da página.
+- CSS3 → Estilização e layout responsivo.
+
+
+💡 *Este desafio foi um ótimo exercício para reforçar conceitos essenciais de desenvolvimento web e praticar a criação de layouts inspirados em sites populares.*
 
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
